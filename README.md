@@ -140,3 +140,4 @@ Erase drawings on active slide:
   "action": "eraseDrawings"
 }
 ```
+Onderaan wat tekst toevoegen in de readme-file
